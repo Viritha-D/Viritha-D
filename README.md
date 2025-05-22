@@ -2,7 +2,8 @@
 
 🎓 I’m a Computer Science Engineering student at Amrita Vishwa Vidyapeetham, passionate about learning, building, and solving real-world problems through code.  
 💡 I believe in continuous growth, teamwork, and the power of technology to create a meaningful impact.
-## 🛠️ Tech Stack
+
+## 🛠️ SKILL SET
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
