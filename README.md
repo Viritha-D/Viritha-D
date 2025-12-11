@@ -1,3 +1,6 @@
-Hii!!
-This is Viritha
-B.Tech in Computer Science and Engineering
+# Viritha Daggubati
+
+Computer Science Engineering Student  
+Aspiring Software Developer | Systems & Algorithms Enthusiast
+
+---
